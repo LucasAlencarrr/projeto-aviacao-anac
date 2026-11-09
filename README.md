@@ -1,8 +1,8 @@
 # Aviação ANAC — VoeBem Analytics
 
-Materiais de estudo da turma da Imersão Engenharia de Dados — setembro/2026, com dados da ANAC, Python, SQL e Databricks.
+Materiais de estudo com dados da ANAC, Python, SQL e Databricks.
 
-A VoeBem Analytics é a consultoria fictícia usada no projeto: o objetivo é investigar atrasos, cancelamentos e pontualidade dos voos. Este repositório é uma iniciativa colaborativa da turma, sem vínculo oficial com a Alura.
+O objetivo é investigar atrasos, cancelamentos e pontualidade dos voos.
 
 ## Primeira vez por aqui?
 
