@@ -4,12 +4,6 @@ Materiais de estudo com dados da ANAC, Python, SQL e Databricks.
 
 O objetivo é investigar atrasos, cancelamentos e pontualidade dos voos.
 
-## Primeira vez por aqui?
-
-Siga o **[Comece aqui — guia para iniciantes](docs/comece-aqui.md)**: do download dos materiais à primeira consulta. O percurso é pelo navegador, com os dados incluídos e sem instalar Python ou Git no computador.
-
-**Estado do material:** preparado para apoiar as aulas. A execução completa em um workspace novo ainda precisa ser validada.
-
 ## Estrutura
 
 - `dados/`: 15 CSVs da ANAC incluídos no material original: 12 meses de VRA (agosto/2025 a julho/2026) e três cadastros de referência.
